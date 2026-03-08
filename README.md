@@ -4,7 +4,6 @@
 - 🚀 **Preparing for upcoming Hackathons**
 - 🌍 **Actively exploring Open Source contributions**
 - 📊 **Building projects in Data Science using Python**
-- 💡 **Interested in AI, Machine Learning, and real-world problem solving**
 - 🧠 **Always learning new technologies and improving coding skills**
 
 ## 🌐 Socials:
@@ -21,10 +20,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anshi321&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Anshi321&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
