@@ -5,9 +5,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Btech Student  
-- 💻 Learning **datascience and aiml**
-- 📚 Currently learning **Data Structures & Algorithms**
+- 🎓 CSE Student  
+- 🚀Preparing for Upcoming Hackathons
+- 📚 Building projects in Data Science
 - 🚀 Interested in **Open Source**
 
 ---
