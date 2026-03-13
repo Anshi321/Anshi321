@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshika</h1>
-
+<h3 align="center">Open Source Learner 
 
 ---
+
 **🎓 CSE Student | 📊 Learning Data Science | 🚀 Exploring tech and open source.**
 
 - 🚀 **Preparing for upcoming Hackathons**
