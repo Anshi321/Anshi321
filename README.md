@@ -3,17 +3,18 @@
 
 ---
 
-**🎓 CSE Student | 📊 Learning Data Science | 🚀 Exploring tech and open source.**
+## 🧑‍💻 About Me
 
-- 🚀 **Preparing for upcoming Hackathons**
-- 🌍 **Actively exploring Open Source contributions**
-- 📊 **Building projects in Data Science using Python**
-- 🧠 **Always learning new technologies and improving coding skills**
+- 🎓 Btech Student  
+- 💻 Learning **datascience and aiml**
+- 📚 Currently learning **Data Structures & Algorithms**
+- 🚀 Interested in **Open Source**
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-yadav-a368a4385)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshiadi23@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-yadav-a368a4385
+)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshiadi23@gmail.com)
 
 ---
 
