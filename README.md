@@ -1,4 +1,7 @@
-#  Hi 👋, I'm Anshika Yadav
+<h1 align="center">Hi 👋, I'm Anshika</h1>
+
+
+---
 **🎓 CSE Student | 📊 Learning Data Science | 🚀 Exploring tech and open source.**
 
 - 🚀 **Preparing for upcoming Hackathons**
