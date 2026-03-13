@@ -8,7 +8,7 @@
 - 🎓 CSE Student  
 - 🚀Preparing for Upcoming Hackathons
 - 📚 Building projects in Data Science using Python
-- 🚀 Actively exploring Open Source Contribution
+- 🚀 Actively exploring Open Source Contributions
 
 ---
 
