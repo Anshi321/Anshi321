@@ -31,9 +31,15 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anshi321&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anshi321&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshi321&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshi321&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshi321&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshi321&theme=tokyo-night)
 
